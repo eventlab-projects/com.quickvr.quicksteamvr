@@ -1,16 +1,16 @@
 {
-  "name": "com.eventlab.dependencies.steamvr",
+  "name": "com.eventlab.quicksteamvr",
   "version": "1.0.0",
-  "displayName": "EventLab.Dependencies.SteamVR",
-  "description": "The SteamVR Integration package",
+  "displayName": "QuickVR.QuickSteamVR",
+  "description": "The QuickVR package for SteamVR.",
   "unity": "2020.3",
   "keywords": [
     "NPC",
     "agents",
     "crowd",
-	"impostors",
-	"animation",
-	"lipsync"
+    "impostors",
+    "animation",
+    "lipsync"
   ],
   "author": {
     "name": "EventLab",

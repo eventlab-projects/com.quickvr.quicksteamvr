@@ -1,0 +1,18 @@
+{
+    "name": "QuickVR.QuickSteamVR",
+    "rootNamespace": "",
+    "references": [
+        "GUID:707846450004269438d1a41ff342c945",
+        "GUID:1fbf338ef6b952a448262a7ff7df5fe4",
+        "GUID:d8a9f013a74b6b84da8e106d2bfa32a2"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
